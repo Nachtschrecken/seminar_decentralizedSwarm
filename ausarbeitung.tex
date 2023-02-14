@@ -1,0 +1,48 @@
+\documentclass[12pt]{article}
+\usepackage{lipsum} 
+\usepackage{graphicx}
+\usepackage{geometry}
+
+\graphicspath{ {./images/} }
+\geometry{
+    left=2.5cm,
+    right=2.5cm,
+    top=3cm,
+    bottom=3cm
+}
+
+\title{Roboterschwarm}
+\begin{document}
+
+     \section*{Controller für Autonome Roboterschwärme}
+    Ausarbeitung zum Thema:\\Distributed deformable configuration control for multi-robot systems with low-cost platform
+    \\von Seoung Kyou Lee\\\\
+    Fakultät für Mathematik und Informatik, Institut für Informatik\\
+    Forschungsseminar Parallelverarbeitung, Wintersemester 2022/23\\\\
+    Autor: Ferris Kleier\\
+    Datum: 14. Februar 2023
+
+    \input{kapitel/01_Einleitung/einleitung.tex}
+
+    \input{kapitel/02_Roboter/roboter.tex}
+
+    \input{kapitel/03_Schwarmaufbau/aufbau.tex}
+
+    \input{kapitel/04_Mathe/mathGrundlagen.tex}
+
+    \input{kapitel/05_Aufgabe/01_aufgabe.tex}
+    \input{kapitel/05_Aufgabe/02_lgp.tex}
+    \input{kapitel/05_Aufgabe/03_breitensuche.tex}
+
+    \input{kapitel/06_PTM/ptm.tex}
+    \input{kapitel/06_PTM/01_classification.tex}
+    \input{kapitel/06_PTM/02_obstacle.tex}
+    \input{kapitel/06_PTM/03_bouncing.tex}
+    \input{kapitel/06_PTM/04_reconstruciton.tex}
+
+    \input{kapitel/07_Simulation/simulation.tex}
+
+    \input{kapitel/08_Schluss/schluss.tex}
+
+
+\end{document}
