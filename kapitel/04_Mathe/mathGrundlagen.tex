@@ -1,1 +1,18 @@
-\section{Mathematische Grundlagen}
+\section{Der Controller}
+
+Folgende Gleichung bildet das Herzstück der Arbeit, den eigentlichen Controller:\\
+
+$u_i^\alpha=\sum\limits_{R_j\in N_i^1}\phi_\alpha(||q_j^i||_\sigma)n_{ij}^i+
+\sum\limits_{R_j\in N_i^1}p_j^i$\\\\
+Diese Gleichung, die Alpha-Control, ist nur ein Teil einer Summe mehrerer Controls. Da die anderen beiden
+(Beta- und Gamma-Control) jedoch auf zentralisierte Methoden beruhen, werden diese für die Arbeit nicht
+betrachtet. Die Alpha-Control gibt einfach ausgedrückt die Distanz und Ausrichtung zwischen Robotern an,
+die eingehalten werden muss, um aus dem Schwarm ein Dreieck-Gitter mit gewünschter Größe zu machen, 
+ähnlich wie ein Netz oder eine künstliche Kraft. Sie bestimmt also, wie 'straff' dieses Netz sein soll. 
+Ist es zu straff, reißt die Verbindung zwischen Robotern eventuell ab. Ist es zu schwach, stoßen Roboter 
+mit hoher Wahrscheinlichkeit ineinander. Im Optimum konvergieren beide Teiler dieser Gleichung gegen 
+Null, wenn der Schwarm perfekt ausgerichtet ist. Der erste Teil der Gleichung ist dabei die tatsächliche
+Kraft im Schwarm, der zweite Teil die Ausrichtung der Roboter im Schwarm. Ziel ist es nun, dass jeder
+Roboter seine Werte durch Bewegung von oder zum Nachbarn so anpasst, dass die Alpha-Control optimal wird.
+Für die Action-Function $\phi_\alpha(z)$ reicht es zu wissen, dass diese mittels Parameter eingestellt
+werden kann, um die Stärke im Schwarm zu definieren, ähnlich wie die Stärke eines Elektromagneten.
