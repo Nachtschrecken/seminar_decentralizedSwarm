@@ -1,1 +1,13 @@
 \section{Einleitung}
+
+Die Arbeit beschäftigt sich mit dem Erkennen und Ausweichen von Hindernissen eines autonomen 
+Roboterschwarms. Diese Roboter könne ihre Umgebung nicht selber wahrnehmen, sondern tasten Hindernisse als
+Netz ab. Ziel dieser Arbeit ist es, einen Controller in Form eines Automaten zu entwicklen, durch welchen
+die Roboter Umgehungsstrategien anwenden und sich ohne Verbindungsabbrüche im Raum bewegen können. Der
+Schwarm agiert dabei dezentral, das heißt es gibt weder eine zentrale Steuereinheit, noch GPS oder 
+Kartensysteme mit denen sich der Schwarm orientiert. Dieses Vorgehen kann kostengünstig und effizient
+umgesetzt werden, da auch einzelne Roboter ausfallen können, ohne, dass der gesamte Schwarm ausfällt. Die
+Roboter kommunizieren untereinander in einer Baumstruktur, Graphenalgorithmen sind für diese Arbeit also
+ein essentieller Bestandteil. Nachdem die Roboter und ihr Aufbau als Schwarm vorgestellt werden, wird das
+Herzstück dieses Controllers behandelt, der Phasenübergangsautomat. Am Ende werden Simulationsergebnisse
+ausgewertet, um die Funktion des Controllers zu garantieren.
