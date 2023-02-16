@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.16)  16 FEB 2023 11:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.16)  16 FEB 2023 12:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -186,22 +186,55 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--26
 
  []
 
-(./kapitel/01_Einleitung/einleitung.tex) (./kapitel/02_Roboter/roboter.tex) (./kapitel/03_Schwarmaufbau/aufbau.tex) (./kapitel/04_Mathe/mathGrundlagen.tex) (./kapitel/05_Aufgabe/01_aufgabe.tex) (./kapitel/05_Aufgabe/02_lgp.tex) (./kapitel/05_Aufgabe/03_breitensuche.tex) (./kapitel/06_PTM/ptm.tex) (./kapitel/06_PTM/01_classification.tex) (./kapitel/06_PTM/02_obstacle.tex) (./kapitel/06_PTM/03_bouncing.tex) (./kapitel/06_PTM/04_reconstruciton.tex) (./kapitel/07_Simulation/simulation.tex) (./kapitel/08_Schluss/schluss.tex) [1
+(./kapitel/01_Einleitung/einleitung.tex) (./kapitel/02_Roboter/roboter.tex
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 7.
 
-{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] (./ausarbeitung.aux) ) 
+Underfull \hbox (badness 10000) in paragraph at lines 3--10
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--20
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--20
+
+ []
+
+[1
+
+{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<images/Screenshot 2023-02-16 at 11.53.03 AM.png, id=11, 479.7925pt x 243.91125pt>
+File: images/Screenshot 2023-02-16 at 11.53.03 AM.png Graphic file (type png)
+<use images/Screenshot 2023-02-16 at 11.53.03 AM.png>
+Package pdftex.def Info: images/Screenshot 2023-02-16 at 11.53.03 AM.png  used on input line 21.
+(pdftex.def)             Requested size: 216.81pt x 110.22054pt.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 21--30
+
+ []
+
+(./kapitel/03_Schwarmaufbau/aufbau.tex) (./kapitel/04_Mathe/mathGrundlagen.tex) (./kapitel/05_Aufgabe/01_aufgabe.tex) (./kapitel/05_Aufgabe/02_lgp.tex) (./kapitel/05_Aufgabe/03_breitensuche.tex) (./kapitel/06_PTM/ptm.tex) (./kapitel/06_PTM/01_classification.tex) (./kapitel/06_PTM/02_obstacle.tex) (./kapitel/06_PTM/03_bouncing.tex) (./kapitel/06_PTM/04_reconstruciton.tex) (./kapitel/07_Simulation/simulation.tex) (./kapitel/08_Schluss/schluss.tex) [2 <./images/Screenshot 2023-02-16 at 11.53.03 AM.png>] [3] (./ausarbeitung.aux) ) 
 Here is how much of TeX's memory you used:
- 3859 strings out of 478268
- 70896 string characters out of 5846346
- 466989 words of memory out of 5000000
- 21993 multiletter control sequences out of 15000+600000
- 470768 words of font info for 33 fonts, out of 8000000 for 9000
+ 3893 strings out of 478268
+ 71544 string characters out of 5846346
+ 469989 words of memory out of 5000000
+ 22017 multiletter control sequences out of 15000+600000
+ 473206 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,5n,77p,316b,137s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on ausarbeitung.pdf (2 pages, 39048 bytes).
+</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on ausarbeitung.pdf (3 pages, 137037 bytes).
 PDF statistics:
- 21 PDF objects out of 1000 (max. 8388607)
- 12 compressed objects within 1 object stream
+ 42 PDF objects out of 1000 (max. 8388607)
+ 24 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
