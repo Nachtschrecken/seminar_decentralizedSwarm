@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.16)  16 FEB 2023 12:12
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.16)  16 FEB 2023 12:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -221,17 +221,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--30
 
  []
 
-(./kapitel/03_Schwarmaufbau/aufbau.tex) (./kapitel/04_Mathe/mathGrundlagen.tex) (./kapitel/05_Aufgabe/01_aufgabe.tex) (./kapitel/05_Aufgabe/02_lgp.tex) (./kapitel/05_Aufgabe/03_breitensuche.tex) (./kapitel/06_PTM/ptm.tex) (./kapitel/06_PTM/01_classification.tex) (./kapitel/06_PTM/02_obstacle.tex) (./kapitel/06_PTM/03_bouncing.tex) (./kapitel/06_PTM/04_reconstruciton.tex) (./kapitel/07_Simulation/simulation.tex) (./kapitel/08_Schluss/schluss.tex) [2 <./images/Screenshot 2023-02-16 at 11.53.03 AM.png>] [3] (./ausarbeitung.aux) ) 
+(./kapitel/03_Schwarmaufbau/aufbau.tex)
+Overfull \hbox (4.49855pt too wide) in paragraph at lines 3--32
+\OT1/cmr/m/n/12 Wie be-reits erw[]ahnt sind Gra-phenal-go-rith-men f[]ur die Kom-mu-ni-ka-ti-on in-ner-halb des Schwarms
+ []
+
+
+Overfull \hbox (2.49449pt too wide) in paragraph at lines 3--32
+\OT1/cmr/m/n/12 es-sen-ti-ell. Wir be-fas-sen uns jetzt erst ein-mal mit der SSicht^^?ein-es Ro-bo-ters $\OML/cmm/m/it/12 R[]$ \OT1/cmr/m/n/12 auf den Schwarm.
+ []
+
+(./kapitel/04_Mathe/mathGrundlagen.tex) (./kapitel/05_Aufgabe/01_aufgabe.tex) (./kapitel/05_Aufgabe/02_lgp.tex) (./kapitel/05_Aufgabe/03_breitensuche.tex) (./kapitel/06_PTM/ptm.tex) (./kapitel/06_PTM/01_classification.tex) (./kapitel/06_PTM/02_obstacle.tex) (./kapitel/06_PTM/03_bouncing.tex) (./kapitel/06_PTM/04_reconstruciton.tex) (./kapitel/07_Simulation/simulation.tex) (./kapitel/08_Schluss/schluss.tex) [2 <./images/Screenshot 2023-02-16 at 11.53.03 AM.png>] [3] (./ausarbeitung.aux) ) 
 Here is how much of TeX's memory you used:
- 3893 strings out of 478268
- 71544 string characters out of 5846346
+ 3889 strings out of 478268
+ 71487 string characters out of 5846346
  469989 words of memory out of 5000000
- 22017 multiletter control sequences out of 15000+600000
+ 22013 multiletter control sequences out of 15000+600000
  473206 words of font info for 41 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,5n,77p,316b,137s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on ausarbeitung.pdf (3 pages, 137037 bytes).
+Output written on ausarbeitung.pdf (3 pages, 138105 bytes).
 PDF statistics:
  42 PDF objects out of 1000 (max. 8388607)
  24 compressed objects within 1 object stream

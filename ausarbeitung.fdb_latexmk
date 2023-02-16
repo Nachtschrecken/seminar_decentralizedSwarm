@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1676545920 "/Users/ferriskleier/PECK/ParallelProcessing/seminar_decentralizedSwarm/ausarbeitung.tex" "ausarbeitung.pdf" "ausarbeitung" 1676545921
+["pdflatex"] 1676546547 "/Users/ferriskleier/PECK/ParallelProcessing/seminar_decentralizedSwarm/ausarbeitung.tex" "ausarbeitung.pdf" "ausarbeitung" 1676546547
   "/Users/ferriskleier/PECK/ParallelProcessing/seminar_decentralizedSwarm/ausarbeitung.tex" 1676543685 1344 84b42e1c475ed866987dce3ddb3792ba ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
@@ -52,12 +52,12 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1668604032 2826445 3ece30bd92e67d6a7f3fc2e024fa56e1 ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "ausarbeitung.aux" 1676545921 1662 b3752272c41eabc8dd45e9ab5832569b "pdflatex"
+  "ausarbeitung.aux" 1676546547 1660 3fba77389104b0bdab1bc6a9a1127e29 "pdflatex"
   "ausarbeitung.tex" 1676543685 1344 84b42e1c475ed866987dce3ddb3792ba ""
   "images/Screenshot 2023-02-16 at 11.53.03 AM.png" 1676544790 81854 9308690daa2b1df702f2af61d141e7ec ""
   "kapitel/01_Einleitung/einleitung.tex" 1676544213 1127 0fdab32f9bedc46851f733d21ec05ffd ""
-  "kapitel/02_Roboter/roboter.tex" 1676545920 1841 c2b7efdd77b2453380a4e310dca1d6ad ""
-  "kapitel/03_Schwarmaufbau/aufbau.tex" 1676372226 23 1a0912db72d6c5a70dcc734f49ccc3fc ""
+  "kapitel/02_Roboter/roboter.tex" 1676546265 1841 6eb4e3d55335afcebf1006d5e03b43fc ""
+  "kapitel/03_Schwarmaufbau/aufbau.tex" 1676546547 977 2520159b0bd0a71ae197c4cb381a93b6 ""
   "kapitel/04_Mathe/mathGrundlagen.tex" 1676372244 34 c1ff96479ecbab09f3f4a782e8b25be7 ""
   "kapitel/05_Aufgabe/01_aufgabe.tex" 1676372259 30 a8c31f1820dafeea7229f657d0b05f69 ""
   "kapitel/05_Aufgabe/02_lgp.tex" 1676372314 32 2d08395dd233917910eebef9950cbb0e ""
