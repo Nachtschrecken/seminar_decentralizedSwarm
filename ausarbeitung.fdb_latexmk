@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1676553761 "/Users/ferriskleier/PECK/ParallelProcessing/seminar_decentralizedSwarm/ausarbeitung.tex" "ausarbeitung.pdf" "ausarbeitung" 1676553761
+["pdflatex"] 1676554250 "/Users/ferriskleier/PECK/ParallelProcessing/seminar_decentralizedSwarm/ausarbeitung.tex" "ausarbeitung.pdf" "ausarbeitung" 1676554250
   "/Users/ferriskleier/PECK/ParallelProcessing/seminar_decentralizedSwarm/ausarbeitung.tex" 1676552309 1365 78a7a2abba75bf6695955765db6e0392 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -23,6 +23,7 @@
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb" 1248133631 35469 70d41d2b9ea31d5d813066df7c99281c ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1248133631 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb" 1248133631 32734 69e00a6b65cedb993666e42eedb3d48f ""
+  "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1248133631 32726 0a1aea6fcd6468ee2cf64d891f5c43c8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1248133631 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "/usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb" 1248133631 32626 4f5c1b83753b1dd3a97d1b399a005b4b ""
   "/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1461363279 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -64,7 +65,7 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1668604032 2826445 3ece30bd92e67d6a7f3fc2e024fa56e1 ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "ausarbeitung.aux" 1676553761 1650 b4c86b7ed2020c8fd64d404880fe3a94 "pdflatex"
+  "ausarbeitung.aux" 1676554250 1650 1ecfe73054475cd10ac41a508f441ca0 "pdflatex"
   "ausarbeitung.tex" 1676552309 1365 78a7a2abba75bf6695955765db6e0392 ""
   "images/Screenshot 2023-02-16 at 11.53.03 AM.png" 1676544790 81854 9308690daa2b1df702f2af61d141e7ec ""
   "kapitel/01_Einleitung/einleitung.tex" 1676552670 1134 021ac0dd2c208a8130ce5d255c67598a ""
@@ -72,8 +73,8 @@
   "kapitel/03_Schwarmaufbau/aufbau.tex" 1676546547 977 2520159b0bd0a71ae197c4cb381a93b6 ""
   "kapitel/04_Mathe/mathGrundlagen.tex" 1676551093 1482 8a861bb073f03a7689f28364c81f97a8 ""
   "kapitel/05_Aufgabe/01_aufgabe.tex" 1676553760 1668 96f2df605f2a4021a467376ccd21d882 ""
-  "kapitel/05_Aufgabe/02_lgp.tex" 1676372314 32 2d08395dd233917910eebef9950cbb0e ""
-  "kapitel/05_Aufgabe/03_breitensuche.tex" 1676372332 35 3257bb2635bcda9ae1378c3cf2a6b3f3 ""
+  "kapitel/05_Aufgabe/02_lgp.tex" 1676554015 518 f056919f00ca9d8269dea6f7d65a9ffd ""
+  "kapitel/05_Aufgabe/03_breitensuche.tex" 1676554249 737 80f823b6b5bb4577834631c55fc63a20 ""
   "kapitel/06_PTM/01_classification.tex" 1676372410 36 169071cdfcf6f97a0dcb3e064865461e ""
   "kapitel/06_PTM/02_obstacle.tex" 1676372404 40 bb3283f09f5db335effa7a810cebad8d ""
   "kapitel/06_PTM/03_bouncing.tex" 1676372428 34 bed08a4a65f001c5e4e2f86ad14a162c ""
