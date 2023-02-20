@@ -1,11 +1,11 @@
 \section{Der Schwarm}
 
 Wie bereits erwähnt sind Graphenalgorithmen für die Kommunikation innerhalb des Schwarms essentiell.
-Wir befassen uns jetzt erst einmal mit der "Sicht" eines Roboters $R_i$ auf den Schwarm. Ein einzelner 
-Roboter kennt nicht den gesamten Schwarm, sondern nur seine eigenen 2-Hop-Nachbarschaft. Logischerweise
+Wir befassen uns jetzt erst einmal mit der 'Sicht' eines Roboters $R_i$ auf den Schwarm. Ein einzelner 
+Roboter kennt nicht den gesamten Schwarm, sondern nur seine eigene 2-Hop-Nachbarschaft. Logischerweise
 erfasst $R_i$ seine 1-Hop-Nachbarn durch die Sensoren und den einfachen Austausch im Signalradius von 
-einem Meter. Die 2-Hop-Nachbarn werden bei jedem anpingen eines Nachbarn von diesem Nachbarn $R_j$ (wir
-nennen den 'Nachbarn' ab nun $R_j$) nun als Array seiner eigenen 1-Hop-Nachbarn mit übertragen.
+einem Meter. Die 2-Hop-Nachbarn werden bei jedem Anpingen eines Nachbarn von diesem Nachbarn $R_j$ (wir
+nennen den 'Nachbarn' im Weiteren $R_j$) nun als Array seiner eigenen 1-Hop-Nachbarn mit übertragen.
 So erhält $R_i$ seine 2-Hop-Nachbarschaft und aktualisiert diese ebenfalls ständig durch Abgleich mit
 Nachbarn im Kommunikationsradius. Der Schwarm ist also ein Zusammenschluss von subjektiven 
 2-Hop-Nachbarschaften eines jeden Roboters. Die Kommunikation im Schwarm erfolgt mittels verteilter

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.16)  20 FEB 2023 13:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.16)  20 FEB 2023 14:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -273,11 +273,6 @@ Overfull \hbox (4.49855pt too wide) in paragraph at lines 3--33
 \OT1/cmr/m/n/12 Wie be-reits erw[]ahnt sind Gra-phenal-go-rith-men f[]ur die Kom-mu-ni-ka-ti-on in-ner-halb des Schwarms
  []
 
-
-Overfull \hbox (2.50229pt too wide) in paragraph at lines 3--33
-\OT1/cmr/m/n/12 es-sen-ti-ell. Wir be-fas-sen uns jetzt erst ein-mal mit der SSicht^^?ein-es Ro-bo-ters $\OML/cmm/m/it/12 R[]$ \OT1/cmr/m/n/12 auf den Schwarm.
- []
-
 (./kapitel/04_Mathe/mathGrundlagen.tex
 Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
@@ -318,27 +313,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--5
 
  []
 
-<images/Screenshot 2023-02-20 at 1.32.00 PM.png, id=31, 1135.24126pt x 389.455pt>
+[5 <./images/Screenshot 2023-02-20 at 1.25.24 PM.png>]
+<images/Screenshot 2023-02-20 at 1.32.00 PM.png, id=35, 1135.24126pt x 389.455pt>
 File: images/Screenshot 2023-02-20 at 1.32.00 PM.png Graphic file (type png)
 <use images/Screenshot 2023-02-20 at 1.32.00 PM.png>
 Package pdftex.def Info: images/Screenshot 2023-02-20 at 1.32.00 PM.png  used on input line 6.
 (pdftex.def)             Requested size: 216.81pt x 74.37753pt.
-<images/Screenshot 2023-02-20 at 1.32.24 PM.png, id=32, 1125.20375pt x 367.3725pt>
+<images/Screenshot 2023-02-20 at 1.32.24 PM.png, id=36, 1125.20375pt x 367.3725pt>
 File: images/Screenshot 2023-02-20 at 1.32.24 PM.png Graphic file (type png)
 <use images/Screenshot 2023-02-20 at 1.32.24 PM.png>
 Package pdftex.def Info: images/Screenshot 2023-02-20 at 1.32.24 PM.png  used on input line 7.
 (pdftex.def)             Requested size: 216.81pt x 70.78247pt.
-[5 <./images/Screenshot 2023-02-20 at 1.25.24 PM.png>]) (./kapitel/06_PTM/04_reconstruciton.tex) (./kapitel/08_Schluss/schluss.tex) [6 <./images/Screenshot 2023-02-20 at 1.32.00 PM.png> <./images/Screenshot 2023-02-20 at 1.32.24 PM.png>] (./ausarbeitung.aux) ) 
+) (./kapitel/06_PTM/04_reconstruciton.tex) (./kapitel/08_Schluss/schluss.tex) [6 <./images/Screenshot 2023-02-20 at 1.32.00 PM.png> <./images/Screenshot 2023-02-20 at 1.32.24 PM.png>] (./ausarbeitung.aux) ) 
 Here is how much of TeX's memory you used:
- 4606 strings out of 478268
- 82057 string characters out of 5846346
+ 4603 strings out of 478268
+ 82021 string characters out of 5846346
  483206 words of memory out of 5000000
- 22712 multiletter control sequences out of 15000+600000
+ 22709 multiletter control sequences out of 15000+600000
  474187 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  68i,6n,77p,315b,137s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on ausarbeitung.pdf (6 pages, 592591 bytes).
+Output written on ausarbeitung.pdf (6 pages, 592643 bytes).
 PDF statistics:
  84 PDF objects out of 1000 (max. 8388607)
  45 compressed objects within 1 object stream

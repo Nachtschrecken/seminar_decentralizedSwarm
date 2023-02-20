@@ -3,7 +3,7 @@
 Die Verteilte Breitensuche von Li et al. und McLurkin ist ein Algorithmus, um einen Baum in einem 
 Graphen von einer Wurzel aus aufzuspannen. Jeder Wurzelknoten $R_0$ setzt dabei seinen initialen Hop 
 auf Null und produziert eine Nachricht mit initialem Zeitstempel Null, welche mit jedem Hop um eins 
-erhöht wird. Empfänger $R_i$ setzen ihren Hop für die nächste Nachricht um eins höher als empfangen 
-und schicken diese an alle Nachbarn $R_j$. Nachbarn speichern nur Sender mit geringster Distanz und 
-Schwarm $G$ baut so einen Baum auf. Durch diese Struktur können nun Nachrichten im Schwarm versendet
+erhöht wird. Die Empfänger $R_i$ setzen ihren Hop für die nächste Nachricht nun um eins höher als empfangen 
+und schicken diese an alle Nachbarn $R_j$. Die Nachbarn speichern nur die Sender mit geringster Distanz und 
+der Schwarm $G$ baut so einen Baum auf. Durch diese Struktur können nun Nachrichten im Schwarm versendet
 werdern oder auch anhand der Anzahl der Hops die Entgernung von Robotern bestimmt werden.

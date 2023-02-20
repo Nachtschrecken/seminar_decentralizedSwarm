@@ -2,11 +2,11 @@
 
 Die Ausgangssituation ist, dass der Schwarm 'flockt', sich also einfach im Raum bewegt und perfekt
 ausgerichtet ist.
-Wenn ein Roboter nun kollidiert, und kein Nachbar als Hindernis festgestellt werden konnte, geht der
+Wenn ein Roboter nun kollidiert und kein Nachbar als Hindernis festgestellt werden konnte, geht der
 Schwarm in den Classification Zustand über. Der Schwarm tastet nun nach und nach die Größe des Hindernisses
 ab, indem geprüft wird, ob noch Roboter existieren, die nicht kollidiert sind. Sind alle Roboter kollidiert
 geht der Schwarm über in den Bouncing-off Zustand. Wurde ein Weg ohne weitere Kollisionen gefunden geht
 der Schwarm in den Obstacle Detouring Zustand über. Der lokale Gelenkpunkt spielt hier eine Rolle in der
 Ermittlung der Größe eines Hindernisses, da ein LGP zwischen zwei kollidierten Nachbarn ein Indikator für
-ein 'Map'-Größe ist. Die Kommmunikation im Schwarm ist kostengünstig, da nur zwei Werte übermittelt werden:
+eine 'Map'-Größe ist. Die Kommmunikation im Schwarm ist kostengünstig, da nur zwei Werte übermittelt werden:
 isLGP, also ob ein Roboter ein lokaler Gelenkpunkt ist, und ob ein Roboter kollidiert ist.
