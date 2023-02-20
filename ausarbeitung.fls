@@ -373,6 +373,7 @@ INPUT ./kapitel/05_Aufgabe/01_aufgabe.tex
 INPUT kapitel/05_Aufgabe/01_aufgabe.tex
 INPUT ./kapitel/05_Aufgabe/01_aufgabe.tex
 INPUT kapitel/05_Aufgabe/01_aufgabe.tex
+INPUT /usr/local/texlive/2022/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT ./kapitel/05_Aufgabe/02_lgp.tex
 INPUT kapitel/05_Aufgabe/02_lgp.tex
 INPUT ./kapitel/05_Aufgabe/02_lgp.tex
