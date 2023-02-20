@@ -1,1 +1,10 @@
 \subsection{Zustand: Reconstruction}
+
+Ziel des Reconstruction Zustandes ist es, dass der Schwarm sich auffächert und die Werte für Laplace
+Potential und Paarweises Poitential minimiert, um den Scharm optimal auszurichten.
+Wie man in der Übersicht der PTM sieht, kann es aber weiterhin vorkommen, dass Roboter kollidieren, etwa weil
+das Hindernis noch nicht weit genug weg ist, oder schon ein neues Hindernis auftaucht. Dann entsteht eine
+Schleife zwischen Obstacle Detouring und Reconstruction. Wenn das Hindernis jedoch weit genug weg ist, und
+der Schwarm durch Anpassung der Ausrichtung und des Abstandes zwischen den Robotern die beiden Werte 
+ausreichend minimiert hat, ist der Schwarm perfekt ausgerichtet und geht in den Flocking Zustand über, wo 
+er sich weiter im Raum bewegt. Die Aufgabe, einem Hindernis auszuweichen wurde erfüllt.

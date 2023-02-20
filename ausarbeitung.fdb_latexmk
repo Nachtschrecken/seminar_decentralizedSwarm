@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1676896102 "/Users/ferriskleier/PECK/ParallelProcessing/seminar_decentralizedSwarm/ausarbeitung.tex" "ausarbeitung.pdf" "ausarbeitung" 1676896102
+["pdflatex"] 1676896927 "/Users/ferriskleier/PECK/ParallelProcessing/seminar_decentralizedSwarm/ausarbeitung.tex" "ausarbeitung.pdf" "ausarbeitung" 1676896928
   "/Users/ferriskleier/PECK/ParallelProcessing/seminar_decentralizedSwarm/ausarbeitung.tex" 1676894596 1315 a5e9396e26052f5b151b4dcc86997cb1 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2022/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1246382020 1004 54797486969f23fa377b128694d548df ""
@@ -65,11 +65,13 @@
   "/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1647878959 4410336 7d30a02e9fa9a16d7d1f8d037ba69641 ""
   "/usr/local/texlive/2022/texmf-var/web2c/pdftex/pdflatex.fmt" 1668604032 2826445 3ece30bd92e67d6a7f3fc2e024fa56e1 ""
   "/usr/local/texlive/2022/texmf.cnf" 1647878952 577 209b46be99c9075fd74d4c0369380e8c ""
-  "ausarbeitung.aux" 1676896102 1541 2a043e5c1d556ebbb1b9e482e9753704 "pdflatex"
+  "ausarbeitung.aux" 1676896928 1541 2a043e5c1d556ebbb1b9e482e9753704 "pdflatex"
   "ausarbeitung.tex" 1676894596 1315 a5e9396e26052f5b151b4dcc86997cb1 ""
   "images/Screenshot 2023-02-16 at 11.53.03 AM.png" 1676544790 81854 9308690daa2b1df702f2af61d141e7ec ""
   "images/Screenshot 2023-02-20 at 1.02.59 PM.png" 1676894585 190236 87fb6090858a63485a114ec30d0d4e06 ""
   "images/Screenshot 2023-02-20 at 1.25.24 PM.png" 1676895927 109999 8a1613e9c70ae204e2752ad1c588736f ""
+  "images/Screenshot 2023-02-20 at 1.32.00 PM.png" 1676896324 148158 7c6a7fbb65c473fa23823060296e555f ""
+  "images/Screenshot 2023-02-20 at 1.32.24 PM.png" 1676896347 113545 1b5fb975fe1ec3499fad51f6a510779f ""
   "kapitel/01_Einleitung/einleitung.tex" 1676552670 1134 021ac0dd2c208a8130ce5d255c67598a ""
   "kapitel/02_Roboter/roboter.tex" 1676546265 1841 6eb4e3d55335afcebf1006d5e03b43fc ""
   "kapitel/03_Schwarmaufbau/aufbau.tex" 1676546547 977 2520159b0bd0a71ae197c4cb381a93b6 ""
@@ -79,8 +81,8 @@
   "kapitel/05_Aufgabe/03_breitensuche.tex" 1676554249 737 80f823b6b5bb4577834631c55fc63a20 ""
   "kapitel/06_PTM/01_classification.tex" 1676895449 998 2229c3e68a4a045a290f7cd263094bdb ""
   "kapitel/06_PTM/02_obstacle.tex" 1676896057 1282 aa90685bc086eec66d994454dd726176 ""
-  "kapitel/06_PTM/03_bouncing.tex" 1676372428 34 bed08a4a65f001c5e4e2f86ad14a162c ""
-  "kapitel/06_PTM/04_reconstruciton.tex" 1676372446 36 297da377f2027171cd303a5d64c1936b ""
+  "kapitel/06_PTM/03_bouncing.tex" 1676896625 1044 5ca79e41bd80f5765c1b035b095b777b ""
+  "kapitel/06_PTM/04_reconstruciton.tex" 1676896927 846 2b29c192b6fb7fb832c746186efaeefe ""
   "kapitel/06_PTM/ptm.tex" 1676896101 640 74de2012dfcf684717d2181bca758907 ""
   "kapitel/08_Schluss/schluss.tex" 1676372479 17 88821706425ba9c00a567dbd843394d7 ""
   (generated)
