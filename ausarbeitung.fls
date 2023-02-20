@@ -387,6 +387,11 @@ INPUT ./kapitel/06_PTM/ptm.tex
 INPUT kapitel/06_PTM/ptm.tex
 INPUT ./kapitel/06_PTM/ptm.tex
 INPUT kapitel/06_PTM/ptm.tex
+INPUT ./images/Screenshot 2023-02-20 at 1.02.59 PM.png
+INPUT ./images/Screenshot 2023-02-20 at 1.02.59 PM.png
+INPUT images/Screenshot 2023-02-20 at 1.02.59 PM.png
+INPUT ./images/Screenshot 2023-02-20 at 1.02.59 PM.png
+INPUT ./images/Screenshot 2023-02-20 at 1.02.59 PM.png
 INPUT ./kapitel/06_PTM/01_classification.tex
 INPUT kapitel/06_PTM/01_classification.tex
 INPUT ./kapitel/06_PTM/01_classification.tex
@@ -403,10 +408,6 @@ INPUT ./kapitel/06_PTM/04_reconstruciton.tex
 INPUT kapitel/06_PTM/04_reconstruciton.tex
 INPUT ./kapitel/06_PTM/04_reconstruciton.tex
 INPUT kapitel/06_PTM/04_reconstruciton.tex
-INPUT ./kapitel/07_Simulation/simulation.tex
-INPUT kapitel/07_Simulation/simulation.tex
-INPUT ./kapitel/07_Simulation/simulation.tex
-INPUT kapitel/07_Simulation/simulation.tex
 INPUT ./kapitel/08_Schluss/schluss.tex
 INPUT kapitel/08_Schluss/schluss.tex
 INPUT ./kapitel/08_Schluss/schluss.tex
